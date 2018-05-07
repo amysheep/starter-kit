@@ -1407,7 +1407,7 @@ Adrienne Marshall
 
 ![](https://img.shields.io/badge/status-active-blue.svg) 
 
-Angela Li
+Angela Li, Amy Yang, Abhinaya, Anne Carroll, Caroline Williams, Melinda Conners, Katherine Simeon
 
 - meetup: [https://www.meetup.com/rladies-chicago/](https://www.meetup.com/rladies-chicago/)
 - twitter: [https://twitter.com/RLadiesChicago](https://twitter.com/RLadiesChicago)
